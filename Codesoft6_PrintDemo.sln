@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codesoft6_PrintDemo", "Codesoft6_PrintDemo\Codesoft6_PrintDemo.csproj", "{3ED597F4-0D46-4408-B550-E8AF1E497831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED597F4-0D46-4408-B550-E8AF1E497831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED597F4-0D46-4408-B550-E8AF1E497831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED597F4-0D46-4408-B550-E8AF1E497831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED597F4-0D46-4408-B550-E8AF1E497831}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FC2617-10BE-4452-9D84-B3F9C417A4B6}
+	EndGlobalSection
+EndGlobal

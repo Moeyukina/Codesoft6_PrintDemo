@@ -1,0 +1,15 @@
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\bin\Release\Codesoft6_PrintDemo.exe
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\bin\Release\Codesoft6_PrintDemo.pdb
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\bin\Release\Interop.LabelManager2.dll
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Interop.LabelManager2.dll
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.csproj.ResolveComReference.cache
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.Properties.Resources.resources
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.csproj.GenerateResource.cache
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.csproj.CoreCompileInputs.cache
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.exe
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.pdb
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.csproj.AssemblyReference.cache
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\bin\Release\Codesoft6_PrintDemo.exe.config
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.LockForm.resources
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.MainForm.resources
+D:\Application Databasc\Microsoft Visual Studio 2019\Source\repos\DHD Project\.Net C#\MES_Miyuki\Codesoft6_PrintDemo\obj\Release\Codesoft6_PrintDemo.SettingForm.resources
